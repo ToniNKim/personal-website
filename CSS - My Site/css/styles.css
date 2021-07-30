@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', sans-serif;
+}
+
+h1 {
+  margin: 50 auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bolder;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+hr {
+  border: 10px dotted #EAF6F6;
+  border-bottom: none;
+  width: 60px;
+  margin: 100px auto 100px auto;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #EAF6F6;
+  position: relative;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.myphoto {
+  margin-top: 50px;
+  width: 150px;
+  border-radius: 100%;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-bottom: 0;
+  padding-top: 30px;
+  padding-bottom: 30px
+}
+
+.contact-me {
+  line-height: 3;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 80px;
+  right: 380px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 430px;
+  left: 400px;
+}
+
+.computer {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.books {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.pro {
+  text-decoration: underline;
+  line-height: 2;
+}
+
+.btn {
+  margin-bottom: 30px;
+}
+
+.footer-link {
+  font-family: 'Montserrat', sans-serif;
+  padding-right: 30px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.copyright {
+  padding-top: 30px;
+  color: #EAF6F6;
+}
+
+.BUTTON_LUO {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Brush Script MT;
+   font-size: 20px;
+   font-weight: bold;
+   padding: 2px 5px 2px 5px;
+   margin: 30px auto 90px auto;
+   background-color: #11999E;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_LUO:hover {
+   background: #11999E;
+   border: solid #11999E 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
